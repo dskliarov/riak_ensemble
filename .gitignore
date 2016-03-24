@@ -4,3 +4,6 @@
 ebin
 .local_dialyzer_plt
 deps/*
+edoc
+.rebar/
+deps.test/*
